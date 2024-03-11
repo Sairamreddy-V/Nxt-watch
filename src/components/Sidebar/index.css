@@ -1,0 +1,28 @@
+.sidebar-link-ul-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.link-icons {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+.link-item {
+  text-decoration: none;
+}
+.logo-container {
+  display: flex;
+  margin-bottom: 12px;
+  margin-top: 10px;
+}
+.sidebar-logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 5px;
+}
+@media (max-width: 768px) {
+  .sidebar-page-container {
+    display: none;
+  }
+}

@@ -1,0 +1,28 @@
+.saved-videos-nav-botttom-container {
+  display: flex;
+}
+.no-videos-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.noSaved-img {
+  height: 250px;
+  width: 250px;
+}
+.ul-container-saved-videos {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+.highlet-header-icon {
+  border-radius: 50px;
+  padding: 10px;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+  color: #ff0000;
+  margin-right: 30px;
+}

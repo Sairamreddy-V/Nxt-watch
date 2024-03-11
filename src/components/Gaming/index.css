@@ -1,0 +1,9 @@
+.gaming-sidebar-videos-container {
+  display: flex;
+}
+.ul-gaming-container{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}

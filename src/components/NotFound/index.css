@@ -1,0 +1,8 @@
+.notfound-image {
+  height: 350px;
+  width: 280px;
+  margin-bottom: 10px;
+}
+.sidebar-page-container {
+  display: flex;
+}

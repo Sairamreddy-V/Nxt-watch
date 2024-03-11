@@ -1,0 +1,32 @@
+.thumbNail-image {
+  height: 120px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.profile-url {
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+  margin-right: 10px;
+}
+.card-text-profile-container {
+  display: flex;
+}
+.card-para {
+  color: #7e858e;
+  font-size: 12px;
+  font-weight: 500;
+}
+.count-published-container {
+  display: flex;
+  align-items: center;
+}
+.card-main-container {
+  width: 250px;
+  flex-grow: 1;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+.card-link {
+  text-decoration: none;
+}

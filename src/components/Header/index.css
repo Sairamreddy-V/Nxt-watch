@@ -1,0 +1,74 @@
+.website-logo {
+  height: 50px;
+  width: 100px;
+}
+.moon-icon {
+  color: #000000;
+  height: 30px;
+  width: 30px;
+}
+.sun-icon {
+  color: #ffffff;
+  height: 30px;
+  width: 30px;
+}
+.header-nav-ul-container {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+.popup-container {
+  background-color: '#383838';
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@media (min-width: 768px) {
+  .profile-nav {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+  }
+  .header-menu {
+    display: none;
+  }
+  .logout-icon {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .profile-nav {
+    display: none;
+  }
+  .header-menu {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+  }
+  .logout-icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 20px;
+  }
+}
+.trigger-button {
+  background-color: transparent;
+  border: none;
+}
+.logout-light {
+  border: 1px solid #3b82f6;
+  color: #3b82f6;
+  background-color: transparent;
+  padding: 7px;
+  cursor: pointer;
+}
+.logout-dark {
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  background-color: transparent;
+  padding: 7px;
+  cursor: pointer;
+}

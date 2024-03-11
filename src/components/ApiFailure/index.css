@@ -1,0 +1,18 @@
+.failure-conatiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.failure-image {
+  height: 200px;
+  width: 220px;
+  margin-bottom: 10px;
+}
+.failure-text-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

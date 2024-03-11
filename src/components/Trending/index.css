@@ -1,0 +1,8 @@
+.Sidebar-trending-container {
+  display: flex;
+}
+.trending-ul-container{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}

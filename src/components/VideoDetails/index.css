@@ -1,0 +1,27 @@
+.videoDetetails-container {
+  display: flex;
+}
+.icons-container {
+  display: flex;
+  align-items: center;
+  margin-right: 5px;
+}
+.views-pub-container {
+  display: flex;
+  align-items: center;
+}
+.videodetailsHrline {
+  width: 100%;
+  background-color: #475569;
+}
+.views-text {
+  margin-right: 7px;
+}
+.video-details-profile-description-container {
+  display: flex;
+}
+.lds-button{
+  border: none;
+  background-color: transparent;
+  cursor:pointer;
+}
